@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TilmeezUrRehmanBhatti&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TilmeezUrRehmanBhatti&hide=issues,contribs&count_private=true&show_icons=true)&emsp;&emsp;&emsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TilmeezUrRehmanBhatti&hide=Procfile&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TilmeezUrRehmanBhatti&hide=issues,contribs&count_private=true&show_icons=true&theme=dark&background=000000)&emsp;&emsp;&emsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TilmeezUrRehmanBhatti&hide=Procfile&layout=compact&theme=dark&background=000000)
 
 
 
@@ -76,10 +76,9 @@ Here are some ideas to get you started:
 
 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![prize](https://github-profile-trophy.vercel.app/?username=TilmeezUrRehmanBhatti)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![prize](https://github-profile-trophy.vercel.app/?username=TilmeezUrRehmanBhatti&theme=dark&background=000000)
 
-![hit](https://activity-graph.herokuapp.com/graph?username=TilmeezUrRehmanBhatti&theme=minimal
-)
+![hit](https://activity-graph.herokuapp.com/graph?username=TilmeezUrRehmanBhatti&theme=minimal&theme=dark&background=000000)
 <!---
 TilmeezUrRehmanBhatti/TilmeezUrRehmanBhatti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
